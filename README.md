@@ -96,4 +96,4 @@ Business Intelligence
 Data Visualization
 Interactive Reporting
 
-screen short link --https://raw.githubusercontent.com/adityadevil/Green-Hospital-Dashboard/refs/heads/main/Hospital%20Revenue.png
+screen short link --[dashboard preview]https://raw.githubusercontent.com/adityadevil/Green-Hospital-Dashboard/refs/heads/main/Hospital%20Revenue.png
