@@ -96,5 +96,4 @@ Business Intelligence
 Data Visualization
 Interactive Reporting
 
-screen short link --
-https://github.com/adityadevil/Green-Hospital-Dashboard/blob/main/Hospital%20Rating.png?raw=true
+screen short link --https://raw.githubusercontent.com/adityadevil/Green-Hospital-Dashboard/refs/heads/main/Hospital%20Revenue.png
