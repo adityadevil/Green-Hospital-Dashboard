@@ -95,3 +95,6 @@ KPI Dashboard Design
 Business Intelligence
 Data Visualization
 Interactive Reporting
+
+screen short link --
+https://github.com/adityadevil/Green-Hospital-Dashboard/blob/main/Hospital%20Rating.png?raw=true
