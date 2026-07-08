@@ -96,4 +96,7 @@ Business Intelligence
 Data Visualization
 Interactive Reporting
 
-screen short link --[dashboard preview]https://raw.githubusercontent.com/adityadevil/Green-Hospital-Dashboard/refs/heads/main/Hospital%20Revenue.png
+<img width="1665" height="792" alt="Hospital Rating" src="https://github.com/user-attachments/assets/d7c0697e-d80e-4a51-8ae2-72a719b94117" />
+<img width="1607" height="793" alt="Hospital Revenue" src="https://github.com/user-attachments/assets/c140b14d-42db-4424-aab0-7dba4e6e4ea2" />
+<img width="1590" height="731" alt="Citywise Hospital OPD" src="https://github.com/user-attachments/assets/14a3117b-da39-49d2-99b0-01c503f81345" />
+
